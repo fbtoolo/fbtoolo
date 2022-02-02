@@ -1,6 +1,6 @@
 
 # -*- coding: utf-8
-# author by Mark Cornel
+# author by fbtoolo
 import os
 try:
 	import requests
